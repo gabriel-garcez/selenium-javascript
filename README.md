@@ -1,5 +1,5 @@
 # selenium-javascript
-JavaScript interactions with Selenium such as Scroll a navigation bar and handle alerts and windows.
+JavaScript interactions with Selenium.
 
 In this project you can:
 
